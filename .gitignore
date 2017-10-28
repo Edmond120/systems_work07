@@ -28,13 +28,15 @@
 *.so.*
 *.dylib
 
-# Executables
+# Compiled output
 *.exe
 *.out
 *.app
 *.i*86
 *.x86_64
 *.hex
+random
+numbers.txt
 
 # Debug files
 *.dSYM/
