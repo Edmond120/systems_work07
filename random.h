@@ -1,0 +1,1 @@
+char genrand(int bytes);
